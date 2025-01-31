@@ -106,7 +106,7 @@ LAWS = [
 
 
 # استبدل 'YOUR_TOKEN' ب token البوت الخاص بك
-bot = telebot.TeleBot("8122418852:AAGtJX3KlIRHMoZgKdH2YO1q4czfeuRlIlU")
+bot = telebot.TeleBot("")
 
 # تعريف الأمر /start
 @bot.message_handler(commands=['start'])
